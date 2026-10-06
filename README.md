@@ -4,7 +4,7 @@ Point a phone camera at a piece of waste and the detector names its material in 
 
 A YOLO11n detector runs **entirely in the browser** through ONNX Runtime Web. There's no server and no uploads, and the camera feed never leaves the phone.
 
-**▶ Live demo:** [ADD YOUR NETLIFY LINK HERE] (open it on a phone and allow camera access)
+**▶ Live demo: [waste-detector.netlify.app](https://waste-detector.netlify.app)** (open it on a phone and allow camera access)
 
 ---
 
